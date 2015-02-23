@@ -1,4 +1,4 @@
-Epitech_my_select
+Epitech my_select
 =================
 
 An epitech "Unix System" project.
